@@ -4,6 +4,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 The project was implemented using React Hooks and React Context.
+
+## Demo
+  The client was deployed on Heroku: https://play-minesweeper.herokuapp.com/
 ## Dependencies
 * Bootstrap
 * Axios
